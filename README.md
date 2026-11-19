@@ -22,7 +22,7 @@ I'm a passionate **Tech Enthusiast** fascinated by new and emerging technologies
 - Tackling and overcoming tricky technical problems.
 
 > *"There is no problem without a solution — only solutions waiting to be discovered."*  
-> — Doug Linder
+> — Ahmad J
 
 
 If you have any issues in any programming or technical field—please reach out to someone else! 😉
