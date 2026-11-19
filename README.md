@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed
+# Hi, I'm Ahmad
 
 I'm a passionate **Tech Enthusiast** fascinated by new and emerging technologies. My journey started several years ago when I began studying programming and building various programs and applications for personal use. Currently, I am specializing in **Networking** and aiming to build my career in this field.
 
@@ -22,7 +22,7 @@ I'm a passionate **Tech Enthusiast** fascinated by new and emerging technologies
 - Tackling and overcoming tricky technical problems.
 
 > *"There is no problem without a solution — there is only solutions waiting to be discovered."*  
-> — Ahmad J
+> — Ahmad Jou
 
 
 If you have any issues in any programming or technical field—please reach out to someone else! 😉
