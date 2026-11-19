@@ -21,7 +21,7 @@ I'm a passionate **Tech Enthusiast** fascinated by new and emerging technologies
 - Developing personal software projects and applications.
 - Tackling and overcoming tricky technical problems.
 
-> *"There is no problem without a solution — only solutions waiting to be discovered."*  
+> *"There is no problem without a solution — there is only solutions waiting to be discovered."*  
 > — Ahmad J
 
 
